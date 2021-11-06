@@ -1,2 +1,2 @@
-# C22
-Creating classes and objects for ground, cannon and tower
+# PRO-C22-SA-Boilerplate_code
+Boilerplate code for student  
